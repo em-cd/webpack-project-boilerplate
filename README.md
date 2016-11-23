@@ -3,14 +3,14 @@
 ## Quick setup instructions
 
 ```shell
-git clone [url]
-cd webpack-project
+git clone https://github.com/em-cd/webpack-project-boilerplate
+cd webpack-project-boilerplate
 npm install
 npm run dev
 open http://localhost:8080
 ```
 
-Edit app/index.js and app/main.scss, create components, have fun.
+Edit app/index.js and app/main.scss, create components, have fun. This boilerplate is for experimenting with webpack and react, and most likely unsuitable for production usage.
 
 ### Dependencies
 
@@ -32,7 +32,7 @@ Edit app/index.js and app/main.scss, create components, have fun.
 - [css-loader](https://www.npmjs.com/package/css-loader)
 - [style-loader](https://www.npmjs.com/package/style-loader)
 - [sass-loader](https://www.npmjs.com/package/sass-loader) (& peer-dependency [node-sass](https://www.npmjs.com/package/node-sass))
-- [`ExtractTextPlugin`](https://github.com/webpack/extract-text-webpack-plugin)
+- [extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin)
 
 
 #### Optional
