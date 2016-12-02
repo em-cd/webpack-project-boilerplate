@@ -14,12 +14,12 @@ Edit app/index.js and app/main.scss, create components, have fun. This boilerpla
 
 ### Dependencies
 
-#### Build
+#### Build:
 
 - [webpack](https://github.com/webpack/webpack)
 - [webpack-dev-server](https://webpack.github.io/docs/webpack-dev-server.html)
 
-#### React
+#### React, Babel & presets:
 
 - [react](https://facebook.github.io/react/)
 - [react-dom](https://www.npmjs.com/package/react-dom)
@@ -27,7 +27,7 @@ Edit app/index.js and app/main.scss, create components, have fun. This boilerpla
 - [babel-preset-es2015](https://www.npmjs.com/package/babel-preset-es2015)
 - [babel-preset-react](https://www.npmjs.com/package/babel-preset-react)
 
-#### CSS/SASS
+#### CSS/SASS:
 
 - [css-loader](https://www.npmjs.com/package/css-loader)
 - [style-loader](https://www.npmjs.com/package/style-loader)
@@ -35,6 +35,6 @@ Edit app/index.js and app/main.scss, create components, have fun. This boilerpla
 - [extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin)
 
 
-#### Optional
+#### Other:
 
-- [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+- [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin) - for automatically generating an index.html
