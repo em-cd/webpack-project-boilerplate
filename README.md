@@ -10,7 +10,7 @@ npm run dev
 open http://localhost:8080
 ```
 
-Edit app/index.js and app/main.scss, create components, have fun. This boilerplate is for experimenting with webpack and react, and most likely unsuitable for production usage.
+Edit app/index.js and app/main.scss, create components, have fun. This boilerplate is for experimenting with webpack and react, and is probably unsuitable for production usage.
 
 ### Dependencies
 
@@ -31,7 +31,7 @@ Edit app/index.js and app/main.scss, create components, have fun. This boilerpla
 
 - [css-loader](https://www.npmjs.com/package/css-loader)
 - [style-loader](https://www.npmjs.com/package/style-loader)
-- [sass-loader](https://www.npmjs.com/package/sass-loader) (& peer-dependency [node-sass](https://www.npmjs.com/package/node-sass))
+- [sass-loader](https://www.npmjs.com/package/sass-loader) (& its peer-dependency [node-sass](https://www.npmjs.com/package/node-sass))
 - [extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin)
 
 
